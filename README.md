@@ -3,7 +3,7 @@ ECDH on Android sample app.
 Code sample for the blog post at 
 http://nelenkov.blogspot.com/2011/12/using-ecdh-on-android.html
 
-Download the latest Spongy Castle jar, drop in lib/, compile and run.
 Requires Android 2.2.
-https://github.com/rtyley/spongycastle
+
+Uses Spongy Castle https://github.com/rtyley/spongycastle
 
